@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { Menu, X, Layers } from "lucide-react";
+import { Menu, X } from "lucide-react";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,8 +34,8 @@ export default function Navbar() {
           {/* Logo Brand */}
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center gap-2.5 group">
-              <div className="w-6 h-6 rounded bg-zinc-900 border border-zinc-800 flex items-center justify-center transition-colors group-hover:border-zinc-700">
-                <Layers className="w-3.5 h-3.5 text-white" />
+              <div className="w-6 h-6 rounded overflow-hidden border border-zinc-800 flex items-center justify-center transition-colors group-hover:border-zinc-700 relative">
+                <Image src="/rk-logo.png" alt="RK Dev Studios Logo" width={24} height={24} className="object-cover" />
               </div>
               <span className="font-bold text-xs sm:text-sm tracking-tight text-white group-hover:text-zinc-200 transition-colors">
                 RK Dev Studios
