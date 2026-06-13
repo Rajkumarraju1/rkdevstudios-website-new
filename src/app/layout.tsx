@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   description: "Building secure, reliable software products for healthcare, productivity, and digital experiences.",
   keywords: ["RK Dev Studios", "MediSave", "Orbit Music", "SubScan", "Software Organization"],
   metadataBase: new URL("https://rkdevstudios.mywebutils.online"),
+  icons: {
+    icon: "/rk-logo.png",
+    shortcut: "/rk-logo.png",
+    apple: "/rk-logo.png",
+  },
   openGraph: {
     title: "RK Dev Studios",
     description: "Building secure, reliable software products for healthcare, productivity, and digital experiences.",
