@@ -78,8 +78,8 @@ export default function Footer() {
               <li>Nellore, Andhra Pradesh – 524002</li>
               <li>India</li>
               <li>
-                <a href="mailto:beatbounce80@gmail.com" className="font-semibold text-zinc-300 hover:text-white transition-colors block mt-1">
-                  beatbounce80@gmail.com
+                <a href="mailto:rajkumarraju60433@gmail.com" className="font-semibold text-zinc-300 hover:text-white transition-colors block mt-1">
+                  rajkumarraju60433@gmail.com
                 </a>
               </li>
               <li className="text-zinc-500 pt-1 text-[11px]">

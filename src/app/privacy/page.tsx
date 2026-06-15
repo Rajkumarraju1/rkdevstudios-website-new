@@ -122,7 +122,7 @@ export default function PrivacyPolicy() {
           <section className="space-y-3">
             <h2 className="text-base font-bold text-white tracking-tight">6. Account Deletion Rights</h2>
             <p>
-              You have the right to request deletion of all account credentials and remote caregiver logs at any time. Submit your request to <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:underline">beatbounce80@gmail.com</a>, and we will purge your remote records within 7 business days.
+              You have the right to request deletion of all account credentials and remote caregiver logs at any time. Submit your request to <a href="mailto:rajkumarraju60433@gmail.com" className="text-blue-400 hover:underline">rajkumarraju60433@gmail.com</a>, and we will purge your remote records within 7 business days.
             </p>
           </section>
 
@@ -135,7 +135,7 @@ export default function PrivacyPolicy() {
               <p className="font-bold text-white text-xs mb-1">RK Dev Studios</p>
               <p>Nellore, Andhra Pradesh – 524002</p>
               <p>India</p>
-              <p className="pt-1">Email: <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:underline">beatbounce80@gmail.com</a></p>
+              <p className="pt-1">Email: <a href="mailto:rajkumarraju60433@gmail.com" className="text-blue-400 hover:underline">rajkumarraju60433@gmail.com</a></p>
               <p>Website: <a href="https://rkdevstudios.mywebutils.online" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online</a></p>
               <p>Support: <a href="https://rkdevstudios.mywebutils.online/support" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online/support</a></p>
             </div>

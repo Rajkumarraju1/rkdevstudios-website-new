@@ -59,7 +59,7 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="mailto:beatbounce80@gmail.com"
+              href="mailto:rajkumarraju60433@gmail.com"
               className="inline-flex items-center justify-center px-4 py-2 rounded border border-zinc-800 bg-zinc-950 hover:bg-zinc-900 text-[10px] font-bold uppercase tracking-wider text-white transition-all"
             >
               Contact
@@ -94,7 +94,7 @@ export default function Navbar() {
           ))}
           <div className="pt-2">
             <a
-              href="mailto:beatbounce80@gmail.com"
+              href="mailto:rajkumarraju60433@gmail.com"
               onClick={() => setIsOpen(false)}
               className="w-full inline-flex items-center justify-center py-2.5 rounded border border-zinc-800 bg-zinc-950 text-xs font-bold uppercase tracking-wider text-white"
             >

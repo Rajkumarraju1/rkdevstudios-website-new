@@ -67,7 +67,7 @@ export default function TermsOfService() {
               <p className="font-bold text-white text-xs mb-1">RK Dev Studios</p>
               <p>Nellore, Andhra Pradesh – 524002</p>
               <p>India</p>
-              <p className="pt-1">Email: <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:underline">beatbounce80@gmail.com</a></p>
+              <p className="pt-1">Email: <a href="mailto:rajkumarraju60433@gmail.com" className="text-blue-400 hover:underline">rajkumarraju60433@gmail.com</a></p>
               <p>Website: <a href="https://rkdevstudios.mywebutils.online" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online</a></p>
               <p>Support: <a href="https://rkdevstudios.mywebutils.online/support" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online/support</a></p>
             </div>

@@ -36,7 +36,7 @@ export default function Support() {
     },
     {
       q: "How do I request account deletion or data deletion?",
-      a: "You can request account deletion inside the app settings, or by emailing beatbounce80@gmail.com. We purge all cloud sync and database records within 7 business days."
+      a: "You can request account deletion inside the app settings, or by emailing rajkumarraju60433@gmail.com. We purge all cloud sync and database records within 7 business days."
     }
   ];
 
@@ -72,8 +72,8 @@ export default function Support() {
                 <p>Nellore, Andhra Pradesh – 524002</p>
                 <p>India</p>
                 <p className="pt-1.5">
-                  Email: <a href="mailto:beatbounce80@gmail.com" className="font-semibold text-blue-400 hover:underline">
-                    beatbounce80@gmail.com
+                  Email: <a href="mailto:rajkumarraju60433@gmail.com" className="font-semibold text-blue-400 hover:underline">
+                    rajkumarraju60433@gmail.com
                   </a>
                 </p>
               </div>

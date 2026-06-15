@@ -194,7 +194,7 @@ export default function About() {
                 </div>
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
                   <span className="text-zinc-500">Contact Email</span>
-                  <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:text-blue-300 font-bold font-mono">beatbounce80@gmail.com</a>
+                  <a href="mailto:rajkumarraju60433@gmail.com" className="text-blue-400 hover:text-blue-300 font-bold font-mono">rajkumarraju60433@gmail.com</a>
                 </div>
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
                   <span className="text-zinc-500">Business Location</span>
