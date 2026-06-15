@@ -64,13 +64,20 @@ export default function Support() {
           
           {/* Support Info */}
           <div className="space-y-6">
-            <div className="p-6 rounded-xl border border-[#18181b] bg-zinc-950/40 space-y-3">
+            <div className="p-6 rounded-xl border border-[#18181b] bg-zinc-950/40 space-y-3.5">
               <Mail className="w-5 h-5 text-zinc-400" />
-              <h3 className="font-bold text-white text-xs uppercase tracking-wider">Direct Email</h3>
-              <a href="mailto:beatbounce80@gmail.com" className="text-xs font-semibold text-blue-400 hover:underline">
-                beatbounce80@gmail.com
-              </a>
-              <p className="text-[11px] text-zinc-500">Response target: 24–48 hours</p>
+              <h3 className="font-bold text-white text-xs uppercase tracking-wider">Contact Information</h3>
+              <div className="text-xs text-zinc-400 leading-relaxed space-y-1">
+                <p className="font-bold text-white">RK Dev Studios</p>
+                <p>Nellore, Andhra Pradesh – 524002</p>
+                <p>India</p>
+                <p className="pt-1.5">
+                  Email: <a href="mailto:beatbounce80@gmail.com" className="font-semibold text-blue-400 hover:underline">
+                    beatbounce80@gmail.com
+                  </a>
+                </p>
+              </div>
+              <p className="text-[10px] text-zinc-550 pt-1 border-t border-zinc-900">Response target: 24–48 hours</p>
             </div>
 
             <div className="p-6 rounded-xl border border-[#18181b] bg-zinc-950/40 space-y-3">

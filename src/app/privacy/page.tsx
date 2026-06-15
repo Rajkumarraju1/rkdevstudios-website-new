@@ -131,9 +131,11 @@ export default function PrivacyPolicy() {
             <p>
               If you have questions regarding this Privacy Policy, data handling practices, or account deletion requests, please contact us:
             </p>
-            <div className="p-5 rounded-xl border border-[#1f1f27] bg-[#101014] space-y-2 text-xs font-mono text-zinc-400 leading-relaxed">
-              <p className="font-bold text-white text-xs font-sans mb-1">RK Dev Studios</p>
-              <p>Email: <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:underline">beatbounce80@gmail.com</a></p>
+            <div className="p-5 rounded-xl border border-[#1f1f27] bg-[#101014] space-y-2 text-xs text-zinc-400 leading-relaxed">
+              <p className="font-bold text-white text-xs mb-1">RK Dev Studios</p>
+              <p>Nellore, Andhra Pradesh – 524002</p>
+              <p>India</p>
+              <p className="pt-1">Email: <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:underline">beatbounce80@gmail.com</a></p>
               <p>Website: <a href="https://rkdevstudios.mywebutils.online" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online</a></p>
               <p>Support: <a href="https://rkdevstudios.mywebutils.online/support" target="_blank" rel="noreferrer" className="text-blue-400 hover:underline">https://rkdevstudios.mywebutils.online/support</a></p>
             </div>

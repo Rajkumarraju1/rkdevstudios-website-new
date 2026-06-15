@@ -155,42 +155,50 @@ export default function About() {
           </div>
         </div>
 
-        {/* Development Philosophy & Core Registry Card */}
+        {/* Development Philosophy & Organization Registry Card */}
         <div className="border-t border-[#1f1f27]/40 pt-16">
           <div className="bg-[#101014] border border-[#1f1f27] rounded-2xl p-8 md:p-12 space-y-8">
             <div className="text-center space-y-2">
-              <h3 className="text-xl font-extrabold text-white">Corporate Identity</h3>
-              <p className="text-xs text-zinc-550">Official registry parameters for organization compliance.</p>
+              <h3 className="text-xl font-extrabold text-white">Organization Information</h3>
+              <p className="text-xs text-zinc-500">Official registry parameters for Google Play developer organization compliance.</p>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-xs leading-relaxed border-t border-zinc-900 pt-8">
               <div className="space-y-3">
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Legal Entity</span>
+                  <span className="text-zinc-500">Organization Name</span>
                   <span className="text-white font-bold">RK Dev Studios</span>
                 </div>
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Primary Web Domain</span>
-                  <span className="text-white font-mono">rkdevstudios.mywebutils.online</span>
+                  <span className="text-zinc-500">Registered Proprietor</span>
+                  <span className="text-white font-bold">Pralayakaveri Raj Kumar</span>
                 </div>
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Founded Year</span>
-                  <span className="text-white font-bold">2026</span>
+                  <span className="text-zinc-500">Registration Type</span>
+                  <span className="text-white font-bold">Proprietorship</span>
+                </div>
+                <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
+                  <span className="text-zinc-500">Enterprise Status</span>
+                  <span className="text-white font-bold">MSME/Udyam Registered Enterprise</span>
                 </div>
               </div>
               
               <div className="space-y-3">
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Corporate Contact</span>
+                  <span className="text-zinc-500">Industry Classification</span>
+                  <span className="text-white font-bold">Software Development & Digital Products</span>
+                </div>
+                <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
+                  <span className="text-zinc-500">Primary Domain</span>
+                  <span className="text-white font-mono">rkdevstudios.mywebutils.online</span>
+                </div>
+                <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
+                  <span className="text-zinc-500">Contact Email</span>
                   <a href="mailto:beatbounce80@gmail.com" className="text-blue-400 hover:text-blue-300 font-bold font-mono">beatbounce80@gmail.com</a>
                 </div>
                 <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Support Response SLAs</span>
-                  <span className="text-white font-bold">24–48 Hours SLA</span>
-                </div>
-                <div className="flex items-center justify-between border-b border-zinc-900 pb-2">
-                  <span className="text-zinc-550">Technical Specialization</span>
-                  <span className="text-white font-bold">Offline-First Schedulers</span>
+                  <span className="text-zinc-500">Business Location</span>
+                  <span className="text-white font-bold">Nellore, Andhra Pradesh, India</span>
                 </div>
               </div>
             </div>

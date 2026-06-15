@@ -22,7 +22,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-xs text-zinc-400 max-w-xs leading-relaxed">
-              Developing secure, reliability-focused digital software products for health management, media, and digital experience budgets.
+              RK Dev Studios develops secure software products for healthcare, music, productivity, and subscription management. Our applications are designed around privacy, reliability, and long-term user trust.
             </p>
           </div>
 
@@ -73,16 +73,16 @@ export default function Footer() {
           {/* Column 4: Contact */}
           <div className="space-y-4">
             <h4 className="text-[10px] font-bold text-white uppercase tracking-wider">Contact</h4>
-            <ul className="space-y-2">
+            <ul className="space-y-2 text-xs text-zinc-400">
+              <li className="text-white font-semibold">RK Dev Studios</li>
+              <li>Nellore, Andhra Pradesh – 524002</li>
+              <li>India</li>
               <li>
-                <a href="mailto:beatbounce80@gmail.com" className="text-xs font-semibold text-zinc-300 hover:text-white transition-colors block">
+                <a href="mailto:beatbounce80@gmail.com" className="font-semibold text-zinc-300 hover:text-white transition-colors block mt-1">
                   beatbounce80@gmail.com
                 </a>
               </li>
-              <li className="text-xs text-zinc-500">
-                Primary domain: rkdevstudios.mywebutils.online
-              </li>
-              <li className="text-xs text-zinc-500">
+              <li className="text-zinc-500 pt-1 text-[11px]">
                 Response targets: 24–48 hours
               </li>
             </ul>
